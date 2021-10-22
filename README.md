@@ -1,5 +1,12 @@
 ### Hi there, I'm Marko 👋
+Software Engineer.
 
+### Technical Stack
+* JavaScript (NodeJS), Python, C++
+* ReactJS, ExpressJS, Webpack, Jest, React Testing Library
+* Postgresql, Cassandra, Redis, ElasticSearch
+* AWS (Route53, EC2, S3, RDS, CloudWatch, Elastic Load Balancer)
+* git
 <!--
 **rubber-bird/rubber-bird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
