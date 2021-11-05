@@ -2,7 +2,7 @@
 Software Engineer.
 
 ### Technical Stack
-* JavaScript (NodeJS), Python, C++
+* JavaScript (NodeJS), Python, C++, C#
 * ReactJS, ExpressJS, Webpack, Jest, React Testing Library
 * Postgresql, Cassandra, Redis, ElasticSearch
 * AWS (Route53, EC2, S3, RDS, CloudWatch, Elastic Load Balancer)
