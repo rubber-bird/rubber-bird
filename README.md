@@ -1,5 +1,5 @@
-### Hi there, I'm Marko 👋
-Software Engineer.
+### Hello internet travellers!
+Hi, I am Marko and I am Software Engineer.
 
 ### Technical Stack
 * JavaScript (NodeJS), Python, C++, C#
