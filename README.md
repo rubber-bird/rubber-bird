@@ -1,7 +1,7 @@
 ![Image](https://user-images.githubusercontent.com/61285/164311775-a12b9560-6587-4d51-b56c-ec9923386509.jpeg)
 
 ### Hello internet travellers!
-Hi, I am Marko and I am Software Engineer.
+Hi, I am Marko and I am Software Engineer originally from Lviv, Ukraine, but currently living in New York City.
 
 ### Technical Stack
 * JavaScript (NodeJS), Python, C++, C#
