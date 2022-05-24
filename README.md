@@ -1,3 +1,5 @@
+![Image](https://user-images.githubusercontent.com/61285/164311775-a12b9560-6587-4d51-b56c-ec9923386509.jpeg)
+
 ### Hello internet travellers!
 Hi, I am Marko and I am Software Engineer.
 
@@ -23,8 +25,9 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center" style="margin: 40px 0">
+<!-- <div align="center" style="margin: 40px 0">
    <a href="https://github.com/rubber-bird/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=rubber-bird&color=DE002D">
    </a>
 </div>
+ -->
